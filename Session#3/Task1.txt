@@ -1,0 +1,1 @@
+First Task in Text Format:What is the usage of different data structures in examples in different operating systems?
